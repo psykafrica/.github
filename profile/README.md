@@ -42,34 +42,35 @@
 
 ## Approach
 
-> We are looking to provide mental health support to undergraduates in Africa due to the strain the educational system has on them.
+> We are looking to provide mental health support to students in Africa due to the strain the educational system has on them
 
-1. Finding solution to help combact the issues faced by the students
-1. Avoiding one fit all solutions that already don't work
+1. Explore solutions to help combact the issues faced by the students
+1. Avoiding one fit all solutions that don't work already
 1. Listen to students
 1. Give space for students that need to vent out
+1. Support educators who work directly with students
 
 **Common myths: Specifically Nigeria**
 
-1. They believe anything mental health means you are mad
-1. For anyone to listen to your mental health concerns, you have to go to 1 on 1 therapy, which is not necessarily addressing most of the students concerns
-1. A lower percentage of students actually need the 1 to 1 therapy
+1. The believe that anything mental health means you are crazy/mad
+1. For anyone to listen to your mental health concerns, your only option is a therapist, which might not necessarily address most of the student concerns imediately
+1. A lower percentage of students actually need mental health support
 
 **What can we do**
 
-1. Writing Guides for students resources
-1. Techniques and life hacks i.e meditation, sleep relaxation
+1. Write Guides for students mental health resources
+1. Provide techniques and hacks i.e meditation, sleep relaxation that work for students
 1. Boostraped startup in 2023
-1. Created waiting list
+1. Created waiting list to ask our users for feedback
 
 **Common Solutions**
 
-1. If someone is stressed, they might not be yelling at you rather tend to need a break to cool off
-1. Need for a communty support group
-1. People come together to share experiences, have more people talking
-1. Giving people their voice, people to be seen for who they are and not what others say about them
-1. With a voice, you can amply your fears so they can continue working on it
-1. Not everyone wants to go outside, sometimes someone just needs to sleep in because of being overwhelmed
+1. If someone is stressed, then they might yelling at you, allow them to take a break to cool off
+1. Provide for a communty support group
+1. People must be allowed to come together to share experiences, have more people talking about mental health
+1. Give people tools to have their voice heard, allow people share their stories and not depend on what others say about them
+1. With a voice, you amply your fears and can overcome social bariers by sharing your experiences
+1. Not everyone is able to stand up for themselves, sometimes an individual needs an advocate because of fears of humuliation and being overwhelmed by their status
 
 **What we want to build**
 
