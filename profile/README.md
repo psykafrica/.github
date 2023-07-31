@@ -10,7 +10,7 @@
 
 **Industry**: Education - Mental Health wellness
 
-**Description**: We care about support mental health wellness to students in Africa by making them be heard
+**Description**: We care about increasing mental health wellness support to students in Africa
 
 **Who is the User and/or Customer**: Students
 
