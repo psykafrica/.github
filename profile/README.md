@@ -22,12 +22,12 @@
 
 > Mental health challenges faced by students in Africa
 
-1. Educational system in Nigeria is not encouraging
+1. Educational system in Nigeria is not prioritizing mental health
 1. Stigmatization in culture that does not embrace mental health support ideas
 1. Stereotypes within African culture
 1. Anything related to mental help, they think therapy is the only solution
 1. Most are not actually depressed, most of the time they are stressed and have anxiety
-1. Not all mental health is needs mental intervention
+1. For mental health conditions that are not medical, there is lack of peer support and intervention
 1. Educators are not trained to deal with individuals with mental health
 1. Educators are exhausted and giving up on trying to support students
 
