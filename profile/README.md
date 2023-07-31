@@ -74,67 +74,37 @@
 
 **What we want to build**
 
-> We want to find out if you would be okay sharing your story here. We found out that sometimes the reason that individuals don't share what they are going through with their families, friends is because they are scared of embarassment or being treated as an outcast. They feel they don't have the best approach to share their story while preserving their dignity, embarassment. We need them to feel they have a home. Annonymity is a priviledge that can be preserved through cryptographic solutions.
+> We want to find out if students can share their stories. We found out that sometimes individuals won't report to their families, friends etc. because they are scared of embarassment or being treated as an outcast. Some students best approach is to share their story while preserving their dignity, and from embarassment. We want to build around privacy preserving alternatives to their this need.
 
-A platform that shares our vision. We are a mental health group where you get to share your stories about mental health, please join us because this will be useful to other people as well.
+A platform that describes our vision. We are a mental health support startup group where we share stories about mental health. Please join us in the fight for mental health wellness.
 
-1. Share your story
-1. We don't suggest you share medication data on here
-1. We want stories social stories and this externally contributing to your mental health
-1. Each mental health challenge is different from anxiety, stress and etc.
-1. Ask yourself, do you want to share your story with others?
+1. We share stories
+1. We don't provide medical help
+1. We share issues that are affecting mental health wellness
+1. We clarify mental health challenges from anxiety, stress and other disorders etc.
+1. We ask you, do you want to share your story with others?
 
-> **Note**: We care about your decision to share your stories. You might be unconfortable, and it is okay to submit annonymous stories. We provide the option to share your story to a group where you can share that with other members.
+> **Note**: We care about mental health wellness for students, it might be unconfortable, and this is okay, we strive to provide guidance on how to safely report and seek for mental health support. We provide an amazing community of people focused on mental health wellness.
 
 ## Benefits
 
-1. Have other people listen to you
-1. It's common some individuals may learn from others facing the same problem as them
-1. Community of people with a common cause
-1. Benefitial for others young adults, and other adults in professional backgrounds
-1. Increased awareness to people with special needs
-1. Increasing acceptance on common human problems
-1. Find more people who are like you
-1. Giving people the power to share what they are feeling or going through where they would otherwise not be able to
+1. Get your voice heard
+1. Learn from individuals facing the same problem as you
+1. Join a community of people with a common cause of mental health wellness
+1. Prepare for young adult life
+1. Increasing awareness to people with special needs
+1. Increasing acceptance to everyday human problems, it's life
+1. Find more people who are like you with the ability to connect
+1. The power to go through where you would otherwise not be able to alone
 
 ## Cons
 
-1. Some individuals with mental help may not receive the help they need
-1. Pobisility that users can share undesirable content
+1. Our servive may not give individuals with mental disorders the help they need besides sharing their experiences
+1. It is pobisile that users can share undesirable experiences and misuse our assistance
+1. It is possible we might have to deal with individuals with extreme aggression and undesired behaviors
 
 ## Challenges
 
 1. 1st time founders
-1. Gaining users
-
-## Roadmap Meetings
-
-**Follow up**
-
-1. Work on weekend project, unrelated
-
-   - [x] Schedule next meeting
-   - [x] Pick a project to work on
-   - [x] Select due date
-   - [x] Execute the idea
-     1. Meek - Web Development
-     1. Abdulhazeem - Presentation, pitch
-   - [x] Collaborate
-   - [x] Present project on due day
-   - [x] Founder feedback session
-
-1. Rate if we are good co-founder fit
-   - [x] Yes
-   - [ ] No
-
-## Other Project: Roommate Finder
-
-Start date: Wednesday July 5th 2023
-
-Due date: Monday July 12th 2023
-
-Requirements:
-
-1. UX/UI -> Figma
-1. Web Development -> Website
-1. Pitch Idea Demo -> (~ 5 minutes)
+1. Growing user base
+1. Revenue
