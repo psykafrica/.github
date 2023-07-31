@@ -31,10 +31,10 @@
 1. Educators are not trained to deal with individuals with mental health
 1. Educators are exhausted and giving up on trying to support students
 
-**Why are student facing?**
+**Why are students facing these problems?**
 
-1. Pressure of submitting assignments
-1. Wickness of the lecturers
+1. Pressure to perform
+1. Tough learning environment
 1. Sleep deprevation
 1. Stress
 1. PTSD
