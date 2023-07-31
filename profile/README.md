@@ -2,7 +2,7 @@
 
 **Name**: Co-Founder, Abdulhazeem Mujaheed, Co-Founder Meek Msaki
 
-> **Co-Founder, Abdulhazeem Mujaheed** is an Undergraduate student studying an Building Achitechtural Design at Obafemi Awolowo University graduate 2025 with 2+ years as a designer. **Co-Founder, Meek Msaki**, is a self taught Software Engineer, previously worked as a Mental Health Professional for 6+ years working directly with clients from a wide spectrum of diagnosed clinical metal illness.
+> **Co-Founder, Abdulhazeem Mujaheed** is an Undergraduate student studying an Building Achitechtural Design at Obafemi Awolowo University graduate 2025 with 2+ years as a designer. **Co-Founder, Meek Msaki**, is a self taught Software Engineer, previously worked as a Professional mental healthcare staff with clients diagnosed with mental disorders for 6+ years.
 
 **Location**: USA & Lagos, Nigeria
 
