@@ -10,7 +10,7 @@
 
 **Industry**: Education - Mental Health wellness
 
-**Description**: We care about increasing mental health wellness support to students in Africa
+**Description**: We care about increasing mental health wellness support to students in Africa by using tools like WhatsApp messenger app
 
 **Who is the User and/or Customer**: Students
 
